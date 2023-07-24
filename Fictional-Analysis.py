@@ -45,7 +45,7 @@ df.describe()
 df['Column']
 
 # Usando uma coluna, podemos contar a quantidade de vezes que cada valor aparece
-df.Total.value_counts()
+df.Column2.value_counts()
 
 # Selecionando um conjunto de colunas
 df[['Column1','Column2','Column3']]
