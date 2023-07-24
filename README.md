@@ -1,2 +1,2 @@
 # Basic-Data-Analysis
-Python data analysis with pandas and matplotlib.
+Basic Python data analysis with pandas and matplotlib.
